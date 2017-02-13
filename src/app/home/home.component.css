@@ -1,0 +1,14 @@
+/*styles for home content only*/
+.input-full-width{
+  width: 100%;
+}
+.search-card{
+  /*width: 100%;*/
+}
+.search-button{
+  display: block;
+  width: 100%;
+}
+.card-container{
+  padding: 5px;
+}
